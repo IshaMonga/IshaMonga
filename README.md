@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshaMonga
 - 👀 I’m interested in Genomics and Clinical informatics analysis.
-- 🌱 I’m currently learning Single-cell Genomics in the Tsankov Lab
+- 🌱 I work on Genetics and Genomics analysis of datasets including but not limited to the Bulk/Single-cell RNAseq, exome sequencing, Long-read sequencing
 - 💞️ Work...... Walk..Run...n Trek...
 - 📫 Email: "mongaisha4@gmail.com"; "imonga@broadinstitute.org" ...
 
